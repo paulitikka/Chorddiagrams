@@ -20,7 +20,7 @@
 #' Group='All';name1=paste("Forest plot of",Group, "Steroid Ratios in",Out);ordera=forestplots(NAFLD,Outcome,Group,name1,ordera,oute,first,e,xlim)
 #' Afterwards: first=FALSE;
 #' @export
-# Some further definitions are needed, yes, yes, yes
+# Some further definitions are needed, yes, yes, yes aa
 
 # This works with the autoscaled (raw if loge=1 and remove 1 in the means) data NAFLD as well...
 
